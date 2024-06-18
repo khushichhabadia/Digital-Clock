@@ -15,6 +15,6 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 <h2>Preview</h2>
 
-Check out a live demo of Digital Clack here.
+Check out a live demo of Digital Clock here.
 ![Screenshot (128)](https://github.com/Khushi1630/Digital-Clock/assets/149806346/88d966a0-8a02-40c9-8798-e89f70b3493e)
 
